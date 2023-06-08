@@ -1,0 +1,12 @@
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    background: linear-gradient(to right, #F88379, #ffff00);
+}
+.flex-container1{
+    display: flex;
+    justify-content: space-around;
+}
